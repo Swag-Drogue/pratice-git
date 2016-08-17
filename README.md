@@ -1,4 +1,5 @@
 hello world!
+
 123456
 asdfasdfasdfasd
 come on!
@@ -7,4 +8,7 @@ zxcvbnmll
 oo
 Good morning
 chaoqian
-alert("困!");
+
+hello world!
+good morning!::
+

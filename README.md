@@ -7,3 +7,4 @@ zxcvbnmll
 oo
 Good morning
 chaoqian
+alert("困!");
